@@ -1,0 +1,9 @@
+package cliente;
+
+public class Cliente {
+
+    String nome;
+    String telefone;
+    String email;
+
+}
